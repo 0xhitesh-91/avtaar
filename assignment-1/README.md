@@ -20,8 +20,8 @@ this branch is dedicated to assignment one
 
 ## Screenshot of final output
 
-![web page at initial stage](/screenshot/screenshot-one.png)
-![when user input user name and click on button](/screenshot/screenshot-two.png)
+![web page at initial stage](./screenshot/screenshot-one.png)
+![when user input user name and click on button](./screenshot/screenshot-two.png)
 
 ## What did I learned from this assignment!
 

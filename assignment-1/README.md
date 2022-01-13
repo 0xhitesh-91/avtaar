@@ -8,11 +8,15 @@ this branch is dedicated to assignment one
 	
 	> git clone https://github.com/0xhitesh-91/avtaar.git
 
-2. Copy path of this repo and paste into your favourite browser with trailing /index.html
+2. Change current branch to assignment-1 using
+
+	> git checkout assignment-1
+
+3. Copy path of this repo and paste into your favourite browser with trailing /index.html
 
 	> /home/path_to_clone_repo/index.html
 
-3. Congratulations!, project is up and running
+4. Congratilation! project is up and runnning, enter your username and have fun
 
 ## Screenshot of final output
 

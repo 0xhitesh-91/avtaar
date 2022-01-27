@@ -43,7 +43,7 @@ using this end point user can add a new event with all the required parameters, 
 ![Add user screenshot](./screenshot-one.png)
 ![Add event screenshot](./screenshot-two.png)
 
-### Instruction to run this program
+## Instruction to run this program
 User must have a docker-engine running on his/her machine, just copy and past below code to run this project.
 
 > sudo docker create -i --name=assign-two -p 3000:3000 bumze/avtaar:assignment-two
@@ -63,3 +63,18 @@ This command will start PostgreSQL database server in the container.
 This command will start express server on port 3000.
 
 **Congratulations** your server is up and ready to accept requests on **localhost:3000**
+
+## What did I learned
+
+this assignment was a challenging one for me, I learned a lot of new skills including
+- building express server
+- postgreSQL to node environment connectivity
+- contanarizing a whole program using docker
+- publishing a docker image
+
+## Known issue
+
+while building this project I get to know some issues which can be resolved
+- Default timezone is not IST in postgreSQL
+- user can input any uid in event irrespective of user table
+- docker image size is big(approx 1GB), need optimization

@@ -39,6 +39,10 @@ using this end point user can add a new event with all the required parameters, 
 
 > locahost:3000/getEvents
 
+### Output/Screenshot
+![Add user screenshot](./screenshot-one.png)
+![Add event screenshot](./screenshot-two.png)
+
 ### Instruction to run this program
 User must have a docker-engine running on his/her machine.
 

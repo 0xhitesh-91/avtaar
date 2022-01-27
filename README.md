@@ -44,7 +44,7 @@ using this end point user can add a new event with all the required parameters, 
 ![Add event screenshot](./screenshot-two.png)
 
 ### Instruction to run this program
-User must have a docker-engine running on his/her machine.
+User must have a docker-engine running on his/her machine, just copy and past below code to run this project.
 
 > sudo docker create -i --name=assign-two -p 3000:3000 bumze/avtaar:assignment-two
 

@@ -49,7 +49,7 @@
 
 - Query to get all events for the next 7 days.
 
-> select * from events where startdate between now() and now() + '7 days'::interval;
+> select * from events where startdate between 'TODAY' and now() + '7 days'::interval;
 ![screenshot four](./screenshot/screenshot_four.png)
 
 ### What did I learned in this assignment
